@@ -1,6 +1,6 @@
 import { assertEquals } from "https://deno.land/std@0.145.0/testing/asserts.ts";
 import * as t from "../../src/algorithms/Uint8ArraytoUint32.ts";
-import * as f from "../../src/algorithms/uint32toUint8Array.ts";
+import * as f from "../../src/algorithms/Uint32toUint8Array.ts";
 import * as e from "../../src/endianness.ts";
 
 const Uint32 = 966547743;

@@ -1,5 +1,5 @@
 import { bitshifting } from '../algorithms/Uint8ArraytoUint32.ts';
-import { dataview } from '../algorithms/uint32toUint8Array.ts';
+import { dataview } from '../algorithms/Uint32toUint8Array.ts';
 import * as e from '../endianness.ts';
 
 export const MAX = 4294967295;
